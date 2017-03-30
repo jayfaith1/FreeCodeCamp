@@ -28,4 +28,4 @@ function palindrome(str) {
 
 
 
-palindrome("eye");
+palindrome("Eye");
